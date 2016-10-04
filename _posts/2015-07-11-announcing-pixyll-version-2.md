@@ -8,7 +8,7 @@ categories: jekyll pixyll
 
 In an effort to make Pixyll easier to customize and more aesthetically pleasing, we've release version `2.0`.
 
-Pixyll now features:
+Pixyll now features working pages:
 
 * Line anchors in code blocks and new syntax highlighting
 * A customizable variables file
