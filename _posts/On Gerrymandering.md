@@ -1,4 +1,4 @@
-Capstone Project:
+Un-Gerrymandering:
 
 Like many Americans, the results on election night took me by surprise. Nearly all the polls and pundits were wrong. The Democrats stunning defeat (and Clinton's substantial popular vote lead) has resurrected an age old debate about the Electoral College.
 
@@ -90,4 +90,4 @@ I found that clustering Pennsylvania into 3 separate groups is the best way to r
 
 
 
-Using demographic and economic data, As I segmented Pennsylvania into 3 districts, I found that the areas were most representative of urban, semi-urban, and rural populations. The populations of these three areas are similar and so are their political leanings. Subdividing these three areas into six congressional districts each would yield congressional representation that actually represents the population best.
+Using demographic and economic data, as I segmented Pennsylvania into 3 districts, I found that the areas were most representative of urban, semi-urban, and rural populations. The populations of these three areas are similar and so are their political leanings. Subdividing these three areas into six congressional districts each would yield congressional representation that actually represents the population best.
