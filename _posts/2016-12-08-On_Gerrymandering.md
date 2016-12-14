@@ -1,10 +1,10 @@
 Un-Gerrymandering:
 
-Like many Americans, the results on election night took me by surprise. Nearly all the polls and pundits were wrong. The Democrats stunning defeat (and Clinton's substantial popular vote lead) has resurrected an age old debate about the Electoral College.
+Like many Americans, the results on election night took me by surprise. Nearly all the polls and pundits were wrong. The Democrats' stunning defeat (and Clinton's substantial popular vote lead) has resurrected an age old debate about the Electoral College.
 
 Personally, I believe the Electoral College plays an important role in protecting the rights of smaller states from being violated by more populous regions. That's not to say that I don't recognize major flaws in the system.
 
-Gerrymandering is the act of manipulating the boundaries of electoral districts for the purpose of benefitting ones party. The term was named after Governor Elbridge Gerry of Massachusetts who manipulated the voting districts in his state to strengthen his party's dominance (apparently one such district resembled a salamander, hence Gerrymandering).
+Gerrymandering is the act of manipulating the boundaries of electoral districts for the purpose of benefitting ones' party. The term was named after Governor Elbridge Gerry of Massachusetts who manipulated the voting districts in his state to strengthen his party's dominance (apparently one such district resembled a salamander, hence Gerrymandering).
 
 
 
@@ -48,14 +48,15 @@ Before we compare these two election results any further, we first need to addre
 
 
 
-Since then, the Congressional districts were redrawn and PA lost a congressman and congressional vote. In the current map, they only have 18 districts.
+As a result, PA lost a congressman, congressional vote, and ended in a highly skewed district map. In the current map, they only have 18 districts.
 
 
 ![](https://tsavolion.github.io/capstone_images/PACD2016.png)
 
 
+Observe the how districts 11, 15, and 17 were changed. Where they were once three balanced districts, the Republican architects of this redraw pushed all Democrat voters into District 17 suring up wins in 11 and 15 going forward.
 
-This is how Pennsylvania looks Congressionally.
+This is how Pennsylvania looks Congressionally now.
 
 
 ![](https://tsavolion.github.io/capstone_images/PACDbyparty.png)
@@ -78,6 +79,12 @@ Clinton Counties:
 
 ![](https://tsavolion.github.io/capstone_images/2016electionresults.png)
 
+To put that in context, please view the total state results here:
+
+
+![](https://tsavolion.github.io/capstone_images/totalvotes.png)
+
+
 
 With the Presidential election results put aside, the fact of the matter is that Pennsylvania is nearly 50% Democrat but that is not represented in congressional districts. The fact that Pennsylvania has been so severely Gerrymandered that it is disenfranchising voters is wrong.
 
@@ -91,3 +98,6 @@ I found that clustering Pennsylvania into 3 separate groups is the best way to r
 
 
 Using demographic and economic data, as I segmented Pennsylvania into 3 districts, I found that the areas were most representative of urban, semi-urban, and rural populations. The populations of these three areas are similar and so are their political leanings. Subdividing these three areas into six congressional districts each would yield congressional representation that actually represents the population best.
+
+
+Sources: Census.gov, PA Department of State, ElectionReturns.pa.gov, PA Voter Services
