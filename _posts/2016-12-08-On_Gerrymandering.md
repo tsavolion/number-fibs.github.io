@@ -4,7 +4,7 @@ Like many Americans, the results on election night took me by surprise. Nearly a
 
 Personally, I believe the Electoral College plays an important role in protecting the rights of smaller states from being violated by more populous regions. That's not to say that I don't recognize major flaws in the system.
 
-Gerrymandering is the act of manipulating the boundaries of electoral districts for the purpose of benefitting ones' party. The term was named after Governor Elbridge Gerry of Massachusetts who manipulated the voting districts in his state to strengthen his party's dominance (apparently one such district resembled a salamander, hence Gerrymandering).
+Gerrymandering is the act of manipulating the boundaries of electoral districts for the purpose of benefitting one's own party. The term was named after Governor Elbridge Gerry of Massachusetts who manipulated the voting districts in his state to strengthen his party's dominance. Apparently one such district resembled a salamander, hence Gerrymandering.
 
 
 
@@ -12,9 +12,9 @@ Gerrymandering is the act of manipulating the boundaries of electoral districts 
 
 
 
-The problem is not in the Electoral College, but rather in the way districts have been corrupted. The solution is simple, redraw voting districts to be representative of the state so voters from each party are fairly represented.
+The problem is not in the Electoral College, but rather in the way districts have been corrupted. The solution is simple: redraw voting districts to be representative of the state so voters from each party are fairly represented.
 
-For this project, I have chosen to focus specifically on Pennsylvania. Pennsylvania is a battleground state (even though most Democrats thought it was safely in the basket). It was an incredibly close race according to the popular vote it was 48.8% for Trump and 48.6% for Clinton. But had you judged solely from the county map, it looked like a Republican blow out.
+For this project, I have chosen to focus specifically on Pennsylvania. Pennsylvania is a battleground state (even though most Democrats thought it was safely in the basket). It was an incredibly close race, as according to the popular vote it was 48.8% for Trump and 48.6% for Clinton. But, had you judged judged the outcome solely from county map, it looked like a Republican blow-out.
 
 
 
@@ -24,7 +24,7 @@ For this project, I have chosen to focus specifically on Pennsylvania. Pennsylva
 
 Let's explain this. Nearly 6 million Pennsylvanians cast their vote on Monday November 7th, 2016, and Donald Trump only beat Hillary by 100,000 votes.
 
-This plot shows County by County how Trump and Clinton performed. One pattern that can be observed here is that Hillary Clinton performed far better than Donald Trump in counties with lager populations but the left side of the plot, where the less populated Counties are, Trump consistently did better than Hillary but by a smaller margin.
+This plot shows county by county how Trump and Clinton performed. One pattern that can be observed here is that Hillary Clinton performed far better than Donald Trump in counties with larger populations but the left side of the plot, where the less populated Counties are, Trump consistently did better than Hillary but by a smaller margin.
 
 
 
@@ -63,9 +63,9 @@ This is how Pennsylvania looks Congressionally now.
 
 
 
-With 13 Republican and 5 Democrat congressmen, Pennsylvania looks far from a battleground state, it looks completely GOP dominated. Why, then, did almost every pollster determine Pennsylvania was a battleground state or even that it was dependably voting for Hillary Clinton? Take a look at the data.
+With 13 Republican and 5 Democrat congressmen, Pennsylvania looks far from a battleground state - it looks completely GOP-dominated. Why, then, did almost every pollster determine Pennsylvania was a battleground state or even that it was dependably voting for Hillary Clinton? Take a look at the data.
 
-Trump won 56 counties in Pennsylvania, while Hillary Clinton only won 11. It took 1,911,292 voters in those 11 counties to hand Hillary the win there. However, it took a mere 1,757,406 voters across 56 counties to give Trump an overwhelming victory in those counties. That's right, Trump won five times as many counties as Hillary with less voters than it took Hillary to win 11 counties. Pennsylvania however is a winner take all state, so the fact that Trump eclipsed Clinton in rural counties yet stayed competitive with her in semi-urban counties was the eventual key to his victory.
+Trump won 56 counties in Pennsylvania, while Hillary Clinton only won 11. It took 1,911,292 voters in those 11 counties to hand Hillary the win there. However, it took a mere 1,757,406 voters across 56 counties to give Trump an overwhelming victory in those counties. That's right, Trump won five times as many counties as Hillary with less voters than it took Hillary to win 11 counties. Pennsylvania however is a winner-take-all state, so the fact that Trump eclipsed Clinton in rural counties yet stayed competitive with her in semi-urban counties was the eventual key to his victory.
 
 Trump Counties:
 
@@ -88,16 +88,16 @@ To put that in context, please view the total state results here:
 
 With the Presidential election results put aside, the fact of the matter is that Pennsylvania is nearly 50% Democrat but that is not represented in congressional districts. The fact that Pennsylvania has been so severely Gerrymandered that it is disenfranchising voters is wrong.
 
-The idea of voting districts needing to be continuous landmasses is outdated. I believe that voting districts should be representative of the state's population. While still keeping the political legitimacy of counties in tact, I have created a program to redraw voting districts in order to maximize their effectiveness in representing the people.
+The idea of Congressional districts needing to be continuous landmasses is outdated. I believe that voting districts should be representative of the state's population. While still keeping the political legitimacy of counties in tact, I have created a program to redraw voting districts in order to maximize their effectiveness in representing the people.
 
-I found that clustering Pennsylvania into 3 separate groups is the best way to represent the population.
+I found that clustering Pennsylvania into three separate groups is the best way to represent the population.
 
 
 ![](https://tsavolion.github.io/capstone_images/3districts.png)
 
 
 
-Using demographic and economic data, as I segmented Pennsylvania into 3 districts, I found that the areas were most representative of urban, semi-urban, and rural populations. The populations of these three areas are similar and so are their political leanings. Subdividing these three areas into six congressional districts each would yield congressional representation that actually represents the population best.
+Using demographic and economic data, as I segmented Pennsylvania into 3 districts, I found that the areas were most representative of urban, semi-urban, and rural populations. The populations of these three areas are culturally similar and so are their political leanings. Subdividing these three "Super Districts" into six sub-districts each would yield congressional representation that actually represents the population best.
 
 
 Sources: Census.gov, PA Department of State, ElectionReturns.pa.gov, PA Voter Services
